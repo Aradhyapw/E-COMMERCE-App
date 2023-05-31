@@ -23,7 +23,9 @@ Only Registered User will be able to login, few of them are listed below :-
 
 
 # Checkout here - 
-http://localhost:3002
+http://localhost:3004/
+
+
 1.Clothes Shopping-
 ![Screenshot (11)](https://github.com/Aradhyapw/E-COMMERCE-App/assets/132876720/69792679-2029-4b53-a672-61f92940ef9c)
 
