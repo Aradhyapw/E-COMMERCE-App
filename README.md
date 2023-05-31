@@ -23,4 +23,4 @@ Only Registered User will be able to login, few of them are listed below :-
 
 
 # Checkout here - 
-https://vermakhushbu723.netlify.app
+https://Aradhyapw.netlify.app
