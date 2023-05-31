@@ -24,3 +24,11 @@ Only Registered User will be able to login, few of them are listed below :-
 
 # Checkout here - 
 http://localhost:3002
+1.Clothes Shopping-
+![Screenshot (11)](https://github.com/Aradhyapw/E-COMMERCE-App/assets/132876720/69792679-2029-4b53-a672-61f92940ef9c)
+
+2-Elecronics items-
+![Screenshot (13)](https://github.com/Aradhyapw/E-COMMERCE-App/assets/132876720/2ac8e128-447c-47dc-9d56-75a9e0b91c01)
+
+3.Jewellery thins-
+![Screenshot (14)](https://github.com/Aradhyapw/E-COMMERCE-App/assets/132876720/59599a6c-501b-461e-bdc6-95b67b3a65a6)
